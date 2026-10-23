@@ -1,0 +1,12 @@
+# Dados de origem e arquivos grandes
+dados/data.csv
+
+# Dados intermediarios gerados
+resultados/base_com_valor_venda.csv
+resultados/vendas_produtos_limpos.csv
+resultados/ranking_produtos.csv
+
+# Arquivos temporarios do R
+.Rhistory
+.RData
+.Rproj.user/
